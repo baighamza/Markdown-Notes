@@ -23,7 +23,7 @@ This looks easy enough, but let's say that you have the following scatter plot b
 
 
 
-![1543773329458](C:\Users\mhaba\AppData\Roaming\Typora\typora-user-images\1543773329458.png)
+![1543773329458](https://raw.githubusercontent.com/HBaig30/Markdown-Notes/master/Machine%20Learning/imgs/img2.png)
 
 Source: Intro to machine learning by Sebastien and Katie; Lesson 2: Features and Visualization
 
@@ -33,7 +33,7 @@ The answer to that is that it is <b>unclear</b>.
 
 An algorithm detect <b>decision surfaces</b> from the pre-existing dataset. A decision surface is a defined region in a scatter plot where a majority of similar points lie.
 
-![1543774295116](C:\Users\mhaba\AppData\Roaming\Typora\typora-user-images\1543774295116.png)
+![1543774295116](https://raw.githubusercontent.com/HBaig30/Markdown-Notes/master/Machine%20Learning/imgs/img3.png)
 
 Source: Intro to machine learning by Sebastien and Katie; Lesson 2: Features and Visualization
 
