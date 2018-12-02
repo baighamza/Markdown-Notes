@@ -11,7 +11,7 @@ An example of this could be figuring out the features to your favourite song. Th
 
 And from these features, we will determine whether or not we like or don't like the song 
 
-![1543772343464](C:\Users\mhaba\AppData\Roaming\Typora\typora-user-images\1543772343464.png)
+![1543772343464](https://raw.githubusercontent.com/HBaig30/Markdown-Notes/master/Machine%20Learning/imgs/img1.png)
 
 Source: Intro to machine learning by Sebastien and Katie; Lesson 2: Features and Visualization
 
